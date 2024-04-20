@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+  }
+
+  #container {
+    top: 30%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -10%);
+  }
+  
+  h1 {
+    color: #fff;
+    font-family: "Source Sans Pro";
+    font-size: 5em;
+    font-weight: 900;
+    /* -webkit-user-select: none;
+    user-select: none; */
+  }
+
+  h2 {
+    color: #fff;
+    font-family: "Source Sans Pro";
+    font-size: 3em;
+    font-weight: 900;
+  }
+
+  h3 {
+    color: #fff;
+    font-family: "Source Sans Pro";
+    font-size: 2em;
+    font-weight: 200;
+  }
